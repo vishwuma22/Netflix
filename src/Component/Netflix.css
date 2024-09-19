@@ -1,0 +1,23 @@
+.bg-style {
+    background-image: url("E:\REACT COURSE\netflix\public\image.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.bg-shade {
+    background-color: rgba(0,0,0,0.5);
+    height: 100vh;
+}
+header {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.brand-title {
+    font-size: 40px;
+    color:red;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px white;
+}
+main {
+    margin-top: 150px;
+}
